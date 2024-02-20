@@ -95,6 +95,14 @@ background: #fff;
 
 /* ====== /hero ====== */
 /* ====== /benefits-sect ====== */
+
+.benefits-sect{
+        color:#2e2f42
+}
+
+
+
+
 .benefits-tit{
    
         font-weight: 500;
@@ -138,7 +146,7 @@ background: #fff;
 .portfolio{
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.1;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
@@ -188,10 +196,11 @@ background: #fff;
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #f4f4fd;
+        color: 4d5ae5;
+      
 }
 
 
