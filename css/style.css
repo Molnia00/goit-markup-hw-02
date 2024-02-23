@@ -113,7 +113,8 @@ color: #404bbf
 /* ====== /benefits-sect ====== */
 
 .benefits-sect{
-        color:#2e2f42;}
+        color:#2e2f42;
+}
         
 
 .benefits-tit{
@@ -135,6 +136,15 @@ color: #404bbf
 
 .team{
     background: #f4f4fd;
+}
+.team-h{
+                font-weight: 700;
+                font-size: 36px;
+                line-height: 1.1;
+                letter-spacing: 0.02em;
+                text-transform: capitalize;
+                text-align: center;
+                color: #2e2f42;
 }
 .team-name{
     
