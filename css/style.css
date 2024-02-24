@@ -59,6 +59,19 @@ color: #404bbf
 .iteam-inf:focus{
     color: #404bbf;
 }
+
+.iteam-info {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.iteam-info:hover,
+.iteam-info:focus {
+        color: #404bbf;
+}
+
 .address-iteam-info{
  font-style: normal;
 }
